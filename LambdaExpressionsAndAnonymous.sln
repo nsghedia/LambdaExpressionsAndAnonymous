@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressionsAndAnonymous", "LambdaExpressionsAndAnonymous\LambdaExpressionsAndAnonymous.csproj", "{6606D9B2-2228-423F-8103-7DBAF32CDACB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{2590F477-4376-4551-8445-EB0AA8EA64EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{93048400-DAFC-4C8F-B725-8D88591B76AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6606D9B2-2228-423F-8103-7DBAF32CDACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6606D9B2-2228-423F-8103-7DBAF32CDACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6606D9B2-2228-423F-8103-7DBAF32CDACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2590F477-4376-4551-8445-EB0AA8EA64EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2590F477-4376-4551-8445-EB0AA8EA64EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2590F477-4376-4551-8445-EB0AA8EA64EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2590F477-4376-4551-8445-EB0AA8EA64EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93048400-DAFC-4C8F-B725-8D88591B76AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93048400-DAFC-4C8F-B725-8D88591B76AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93048400-DAFC-4C8F-B725-8D88591B76AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93048400-DAFC-4C8F-B725-8D88591B76AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
